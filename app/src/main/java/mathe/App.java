@@ -13,5 +13,6 @@ public class App {
         System.out.println(r + "Diagonale: " + r.getDiagonale());
         //noch eine nachträgliche Änderung
         //und noch eine
+        //und noch mehr
     }
 }
