@@ -12,5 +12,6 @@ public class App {
         Rechteck r = new Rechteck(3,7);
         System.out.println(r + "Diagonale: " + r.getDiagonale());
         //noch eine nachträgliche Änderung
+        //und noch eine
     }
 }
